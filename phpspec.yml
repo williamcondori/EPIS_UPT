@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: EPIS_UPT
+        psr4_prefix: EPIS_UPT
+        src_path: app
